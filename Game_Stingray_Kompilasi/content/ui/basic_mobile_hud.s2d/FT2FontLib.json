@@ -1,0 +1,7 @@
+{
+	"fonts" : [
+	  {"name" : "UI",  "style" : "Regular", "file" : "Font_UI.ttf"},
+	  {"name" : "Score",  "style" : "Regular", "file" : "Font_Score.ttf"}
+	  ]
+	
+}

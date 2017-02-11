@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DC2A63B1-6552-4DDB-8F20-6DC1E93BD298}" SchemaVersion="69">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{DC2A63B1-6552-4DDB-8F20-6DC1E93BD298}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="test" ID="{46600877-DC12-47A2-BA75-3DDE17C15AF2}">
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="CODE_Volume_Music" ID="{235C7208-19AB-4701-9BDF-001D2760CF49}"/>
+							<Value>100</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="CODE_Volume_SFX" ID="{09B7DD23-D1F0-4F72-8312-8E64492D73D4}"/>
+							<Value>100</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="CODE_Volume_VO" ID="{BDE3413E-77A9-44E2-A078-894D61BB5827}"/>
+							<Value>100</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

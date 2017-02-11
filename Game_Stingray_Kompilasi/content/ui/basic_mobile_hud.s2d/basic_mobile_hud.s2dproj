@@ -1,0 +1,61 @@
+{
+    "@objects": [
+		{
+			"Id": "11309685105414536093",
+			"DynamicProperties": {},
+			"Owner": null,
+			"Author": "",
+			"Company": "",
+			"StageWidth": 2731,
+			"StageHeight": 1536,
+			"FramesPerSec": 30,
+			"AutoLoadScene": "hud.s2dscene",
+			"Script": "",
+			"GridOptionsData": {
+				"CellWidth": 16,
+				"CellHeight": 16,
+				"IsOnTop": true,
+				"IsVisible": false,
+				"GridColor": "#3d3e40"
+			},
+			"GuideOptionsData": {
+				"IsLocked": false,
+				"IsVisible": true,
+				"GuideColor": "#FF4040",
+				"HorizontalGuides": [],
+				"VerticalGuides": []
+			},
+			"Preview": "",
+			"@meta": {
+				"@id": 1960670754,
+				"@typeid": 153080644
+			}
+		}
+	],
+	"@meta": {
+		"@archive": "Serialization::Archive",
+		"@version": 1,
+		"@meta": {
+			"Scaleform::VGx::Data::Object": {
+				"@typename": "Scaleform::VGx::Data::Object",
+				"@typeid": 11646516,
+				"@version": 4
+			},
+			"Scaleform::VGx::Data::Project": {
+				"@typename": "Scaleform::VGx::Data::Project",
+				"@typeid": 153080644,
+				"@version": 6
+			},
+			"Scaleform::VGx::Data::GridOptions": {
+				"@typename": "Scaleform::VGx::Data::GridOptions",
+				"@typeid": 243991091,
+				"@version": 1
+			},
+			"Scaleform::VGx::Data::GuideOptions": {
+				"@typename": "Scaleform::VGx::Data::GuideOptions",
+				"@typeid": 158974835,
+				"@version": 1
+			}
+		}
+	}
+}

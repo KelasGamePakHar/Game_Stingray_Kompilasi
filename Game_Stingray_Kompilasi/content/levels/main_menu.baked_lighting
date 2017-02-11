@@ -1,0 +1,31 @@
+
+lightmaps = [ ]
+units = [ {
+		meshes = {
+		}
+		unit = "#ID[f858939c74e7fbc9]"
+	} {
+		meshes = {
+		}
+		unit = "#ID[427245928a91584c]"
+	} {
+		meshes = {
+		}
+		unit = "#ID[dfbc735b1b9093e3]"
+	} {
+		meshes = {
+		}
+		unit = "#ID[b98593205d20a518]"
+	} {
+		meshes = {
+		}
+		unit = "#ID[69c0b3a722c692f8]"
+	} {
+		meshes = {
+		}
+		unit = "#ID[e393b1a6fe35a926]"
+	} ]
+vertex_channels = [ {
+		component = "indirect_diffuse"
+		type = "ubyte4"
+	} ]

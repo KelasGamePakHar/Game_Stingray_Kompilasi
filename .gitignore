@@ -1,3 +1,8 @@
+# Stingray Data file
+# Directory ini harus di gitignore berdasarkan manual http://help.autodesk.com/view/Stingray/ENU/?guid=__stingray_help_getting_started_set_up_project_version_control_html
+
+Game_Stingray_Kompilasi_data/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

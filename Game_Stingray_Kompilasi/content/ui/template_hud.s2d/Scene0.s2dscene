@@ -1,0 +1,831 @@
+{
+    "@objects": [
+		{
+			"Id": "15034198312689091309",
+			"DynamicProperties": {},
+			"Owner": null,
+			"Name": "Scene0",
+			"Transform": {
+				"Position": {
+					"x": 0.000000,
+					"y": 0.000000,
+					"z": 0.000000
+				},
+				"Scale": {
+					"x": 1.000000,
+					"y": 1.000000,
+					"z": 1.000000
+				},
+				"Rotation": {
+					"x": 0.000000,
+					"y": 0.000000,
+					"z": 0.000000
+				},
+				"Pivot": {
+					"x": 0.000000,
+					"y": 0.000000,
+					"z": 0.000000
+				},
+				"Shear": {
+					"x": 0.000000,
+					"y": 0.000000
+				},
+				"XZShear": 0.000000,
+				"YZShear": 0.000000,
+				"Tolerance": 0.000001,
+				"AngleTolerance": 0.001091
+			},
+			"Cxform": {
+				"Mode": 0,
+				"Value": 0.000000,
+				"R": 0.000000,
+				"G": 0.000000,
+				"B": 0.000000,
+				"Ao": 0.000000,
+				"Ro": 0.000000,
+				"Go": 0.000000,
+				"Bo": 0.000000,
+				"Am": 1.000000,
+				"Rm": 1.000000,
+				"Gm": 1.000000,
+				"Bm": 1.000000
+			},
+			"Components": [
+				{
+					"Id": "14748070102793535945",
+					"DynamicProperties": {},
+					"Owner": {
+						"@meta": {
+							"@ref": 97270621
+						}
+					},
+					"Name": "Scaleform::VGx::Data::Component_1",
+					"Enabled": true,
+					"Layers": [
+						{
+							"Id": "8878382787366956845",
+							"DynamicProperties": {},
+							"Owner": {
+								"@meta": {
+									"@ref": 1910967306
+								}
+							},
+							"ChildLayers": [],
+							"Visible": true,
+							"Locked": false,
+							"ParentLayerId": "0",
+							"pActor": {
+								"Id": "559024527721960573",
+								"DynamicProperties": {},
+								"Owner": {
+									"@meta": {
+										"@ref": 495121519
+									}
+								},
+								"Name": "direction_arrows",
+								"Transform": {
+									"Position": {
+										"x": 1683.011600,
+										"y": 778.017200,
+										"z": 0.000000
+									},
+									"Scale": {
+										"x": 1.000000,
+										"y": 1.000000,
+										"z": 1.000000
+									},
+									"Rotation": {
+										"x": 0.000000,
+										"y": 0.000000,
+										"z": 0.000000
+									},
+									"Pivot": {
+										"x": 0.000000,
+										"y": 0.000000,
+										"z": 0.000000
+									},
+									"Shear": {
+										"x": 0.000000,
+										"y": 0.000000
+									},
+									"XZShear": 0.000000,
+									"YZShear": 0.000000,
+									"Tolerance": 0.000001,
+									"AngleTolerance": 0.001091
+								},
+								"Cxform": {
+									"Mode": 0,
+									"Value": 0.000000,
+									"R": 0.000000,
+									"G": 0.000000,
+									"B": 0.000000,
+									"Ao": 0.000000,
+									"Ro": 0.000000,
+									"Go": 0.000000,
+									"Bo": 0.000000,
+									"Am": 1.000000,
+									"Rm": 1.000000,
+									"Gm": 1.000000,
+									"Bm": 1.000000
+								},
+								"Components": [
+									{
+										"Id": "16505046973843470033",
+										"DynamicProperties": {},
+										"Owner": {
+											"@meta": {
+												"@ref": 1442394222
+											}
+										},
+										"Name": "Scaleform::VGx::Data::Component_12",
+										"Enabled": true,
+										"Layers": [
+											{
+												"Id": "3337255216555398865",
+												"DynamicProperties": {},
+												"Owner": {
+													"@meta": {
+														"@ref": 724725241
+													}
+												},
+												"ChildLayers": [],
+												"Visible": true,
+												"Locked": false,
+												"ParentLayerId": "0",
+												"pActor": {
+													"Id": "2221175471872530369",
+													"DynamicProperties": {},
+													"Owner": {
+														"@meta": {
+															"@ref": 135065890
+														}
+													},
+													"Name": "down",
+													"Transform": {
+														"Position": {
+															"x": 136.000000,
+															"y": 208.000000,
+															"z": 0.000000
+														},
+														"Scale": {
+															"x": 1.000000,
+															"y": 1.000000,
+															"z": 1.000000
+														},
+														"Rotation": {
+															"x": 0.000000,
+															"y": 0.000000,
+															"z": -3.141600
+														},
+														"Pivot": {
+															"x": 0.000000,
+															"y": 0.000000,
+															"z": 0.000000
+														},
+														"Shear": {
+															"x": 0.000000,
+															"y": 0.000000
+														},
+														"XZShear": 0.000000,
+														"YZShear": 0.000000,
+														"Tolerance": 0.000000,
+														"AngleTolerance": 0.001100
+													},
+													"Cxform": {
+														"Mode": 1,
+														"Value": 0.250000,
+														"R": 0.000000,
+														"G": 0.000000,
+														"B": 0.000000,
+														"Ao": 0.000000,
+														"Ro": 0.000000,
+														"Go": 0.000000,
+														"Bo": 0.000000,
+														"Am": 1.000000,
+														"Rm": 1.000000,
+														"Gm": 1.000000,
+														"Bm": 1.000000
+													},
+													"Components": [
+														{
+															"Id": "7777419435314177925",
+															"DynamicProperties": {},
+															"Owner": {
+																"@meta": {
+																	"@ref": 3903054358
+																}
+															},
+															"Name": "Scaleform::VGx::Data::Component_4",
+															"Enabled": true,
+															"Bitmap": "direction_arrow.png",
+															"@meta": {
+																"@id": 113154776,
+																"@typeid": 110556596
+															}
+														}
+													],
+													"Pivot": {
+														"x": 0.000000,
+														"y": 0.000000
+													},
+													"BlendMode": 0,
+													"Scale9Enabled": false,
+													"Scale9Grid": {
+														"x1": 0.000000,
+														"y1": 0.000000,
+														"x2": 0.000000,
+														"y2": 0.000000
+													},
+													"Filters": [],
+													"@meta": {
+														"@id": 3903054358,
+														"@typeid": 150545074
+													}
+												},
+												"@meta": {
+													"@id": 135065890,
+													"@typeid": 201137634
+												}
+											},
+											{
+												"Id": "9055327656384400893",
+												"DynamicProperties": {},
+												"Owner": {
+													"@meta": {
+														"@ref": 724725241
+													}
+												},
+												"ChildLayers": [],
+												"Visible": true,
+												"Locked": false,
+												"ParentLayerId": "0",
+												"pActor": {
+													"Id": "16445980007448869901",
+													"DynamicProperties": {},
+													"Owner": {
+														"@meta": {
+															"@ref": 3339849044
+														}
+													},
+													"Name": "right",
+													"Transform": {
+														"Position": {
+															"x": 208.000000,
+															"y": 72.000000,
+															"z": 0.000000
+														},
+														"Scale": {
+															"x": 1.000000,
+															"y": 1.000000,
+															"z": 1.000000
+														},
+														"Rotation": {
+															"x": 0.000000,
+															"y": 0.000000,
+															"z": 1.570800
+														},
+														"Pivot": {
+															"x": 0.000000,
+															"y": 0.000000,
+															"z": 0.000000
+														},
+														"Shear": {
+															"x": 0.000000,
+															"y": 0.000000
+														},
+														"XZShear": 0.000000,
+														"YZShear": 0.000000,
+														"Tolerance": 0.000000,
+														"AngleTolerance": 0.001100
+													},
+													"Cxform": {
+														"Mode": 1,
+														"Value": 0.250000,
+														"R": 0.000000,
+														"G": 0.000000,
+														"B": 0.000000,
+														"Ao": 0.000000,
+														"Ro": 0.000000,
+														"Go": 0.000000,
+														"Bo": 0.000000,
+														"Am": 1.000000,
+														"Rm": 1.000000,
+														"Gm": 1.000000,
+														"Bm": 1.000000
+													},
+													"Components": [
+														{
+															"Id": "14721031137833426989",
+															"DynamicProperties": {},
+															"Owner": {
+																"@meta": {
+																	"@ref": 886098784
+																}
+															},
+															"Name": "Scaleform::VGx::Data::Component_6",
+															"Enabled": true,
+															"Bitmap": "direction_arrow.png",
+															"@meta": {
+																"@id": 1577919364,
+																"@typeid": 110556596
+															}
+														}
+													],
+													"Pivot": {
+														"x": 0.000000,
+														"y": 0.000000
+													},
+													"BlendMode": 0,
+													"Scale9Enabled": false,
+													"Scale9Grid": {
+														"x1": 0.000000,
+														"y1": 0.000000,
+														"x2": 0.000000,
+														"y2": 0.000000
+													},
+													"Filters": [],
+													"@meta": {
+														"@id": 886098784,
+														"@typeid": 150545074
+													}
+												},
+												"@meta": {
+													"@id": 3339849044,
+													"@typeid": 201137634
+												}
+											},
+											{
+												"Id": "9397113410941948213",
+												"DynamicProperties": {},
+												"Owner": {
+													"@meta": {
+														"@ref": 724725241
+													}
+												},
+												"ChildLayers": [],
+												"Visible": true,
+												"Locked": false,
+												"ParentLayerId": "0",
+												"pActor": {
+													"Id": "15167262867372487221",
+													"DynamicProperties": {},
+													"Owner": {
+														"@meta": {
+															"@ref": 3420307436
+														}
+													},
+													"Name": "left",
+													"Transform": {
+														"Position": {
+															"x": 0.000000,
+															"y": 136.000000,
+															"z": 0.000000
+														},
+														"Scale": {
+															"x": 1.000000,
+															"y": 1.000000,
+															"z": 1.000000
+														},
+														"Rotation": {
+															"x": 0.000000,
+															"y": 0.000000,
+															"z": -1.570800
+														},
+														"Pivot": {
+															"x": 0.000000,
+															"y": 0.000000,
+															"z": 0.000000
+														},
+														"Shear": {
+															"x": 0.000000,
+															"y": 0.000000
+														},
+														"XZShear": 0.000000,
+														"YZShear": 0.000000,
+														"Tolerance": 0.000000,
+														"AngleTolerance": 0.001100
+													},
+													"Cxform": {
+														"Mode": 1,
+														"Value": 0.250000,
+														"R": 0.000000,
+														"G": 0.000000,
+														"B": 0.000000,
+														"Ao": 0.000000,
+														"Ro": 0.000000,
+														"Go": 0.000000,
+														"Bo": 0.000000,
+														"Am": 1.000000,
+														"Rm": 1.000000,
+														"Gm": 1.000000,
+														"Bm": 1.000000
+													},
+													"Components": [
+														{
+															"Id": "18421282737256515101",
+															"DynamicProperties": {},
+															"Owner": {
+																"@meta": {
+																	"@ref": 2081400083
+																}
+															},
+															"Name": "Scaleform::VGx::Data::Component_8",
+															"Enabled": true,
+															"Bitmap": "direction_arrow.png",
+															"@meta": {
+																"@id": 2488157843,
+																"@typeid": 110556596
+															}
+														}
+													],
+													"Pivot": {
+														"x": 0.000000,
+														"y": 0.000000
+													},
+													"BlendMode": 0,
+													"Scale9Enabled": false,
+													"Scale9Grid": {
+														"x1": 0.000000,
+														"y1": 0.000000,
+														"x2": 0.000000,
+														"y2": 0.000000
+													},
+													"Filters": [],
+													"@meta": {
+														"@id": 2081400083,
+														"@typeid": 150545074
+													}
+												},
+												"@meta": {
+													"@id": 3420307436,
+													"@typeid": 201137634
+												}
+											},
+											{
+												"Id": "5554403052857969217",
+												"DynamicProperties": {},
+												"Owner": {
+													"@meta": {
+														"@ref": 724725241
+													}
+												},
+												"ChildLayers": [],
+												"Visible": true,
+												"Locked": false,
+												"ParentLayerId": "0",
+												"pActor": {
+													"Id": "15246102340564069853",
+													"DynamicProperties": {},
+													"Owner": {
+														"@meta": {
+															"@ref": 1613177978
+														}
+													},
+													"Name": "up",
+													"Transform": {
+														"Position": {
+															"x": 72.000000,
+															"y": 0.000000,
+															"z": 0.000000
+														},
+														"Scale": {
+															"x": 1.000000,
+															"y": 1.000000,
+															"z": 1.000000
+														},
+														"Rotation": {
+															"x": 0.000000,
+															"y": 0.000000,
+															"z": 0.000000
+														},
+														"Pivot": {
+															"x": 0.000000,
+															"y": 0.000000,
+															"z": 0.000000
+														},
+														"Shear": {
+															"x": 0.000000,
+															"y": 0.000000
+														},
+														"XZShear": 0.000000,
+														"YZShear": 0.000000,
+														"Tolerance": 0.000000,
+														"AngleTolerance": 0.001100
+													},
+													"Cxform": {
+														"Mode": 1,
+														"Value": 0.250000,
+														"R": 0.000000,
+														"G": 0.000000,
+														"B": 0.000000,
+														"Ao": 0.000000,
+														"Ro": 0.000000,
+														"Go": 0.000000,
+														"Bo": 0.000000,
+														"Am": 1.000000,
+														"Rm": 1.000000,
+														"Gm": 1.000000,
+														"Bm": 1.000000
+													},
+													"Components": [
+														{
+															"Id": "12200787851024065169",
+															"DynamicProperties": {},
+															"Owner": {
+																"@meta": {
+																	"@ref": 1973383890
+																}
+															},
+															"Name": "Scaleform::VGx::Data::Component_10",
+															"Enabled": true,
+															"Bitmap": "direction_arrow.png",
+															"@meta": {
+																"@id": 3563817168,
+																"@typeid": 110556596
+															}
+														}
+													],
+													"Pivot": {
+														"x": 0.000000,
+														"y": 0.000000
+													},
+													"BlendMode": 0,
+													"Scale9Enabled": false,
+													"Scale9Grid": {
+														"x1": 0.000000,
+														"y1": 0.000000,
+														"x2": 0.000000,
+														"y2": 0.000000
+													},
+													"Filters": [],
+													"@meta": {
+														"@id": 1973383890,
+														"@typeid": 150545074
+													}
+												},
+												"@meta": {
+													"@id": 1613177978,
+													"@typeid": 201137634
+												}
+											}
+										],
+										"@meta": {
+											"@id": 724725241,
+											"@typeid": 95995364
+										}
+									}
+								],
+								"Pivot": {
+									"x": 0.000000,
+									"y": 0.000000
+								},
+								"BlendMode": 0,
+								"Scale9Enabled": false,
+								"Scale9Grid": {
+									"x1": 0.000000,
+									"y1": 0.000000,
+									"x2": 0.000000,
+									"y2": 0.000000
+								},
+								"Filters": [],
+								"@meta": {
+									"@id": 1442394222,
+									"@typeid": 150545074
+								}
+							},
+							"@meta": {
+								"@id": 495121519,
+								"@typeid": 201137634
+							}
+						},
+						{
+							"Id": "2902352275305827117",
+							"DynamicProperties": {},
+							"Owner": {
+								"@meta": {
+									"@ref": 1910967306
+								}
+							},
+							"ChildLayers": [],
+							"Visible": true,
+							"Locked": false,
+							"ParentLayerId": "0",
+							"pActor": {
+								"Id": "14835548874169188897",
+								"DynamicProperties": {},
+								"Owner": {
+									"@meta": {
+										"@ref": 3329545390
+									}
+								},
+								"Name": "Actor_45",
+								"Transform": {
+									"Position": {
+										"x": 1679.111568,
+										"y": 1008.207457,
+										"z": 0.000000
+									},
+									"Scale": {
+										"x": 0.410156,
+										"y": 0.410156,
+										"z": 1.000000
+									},
+									"Rotation": {
+										"x": 0.000000,
+										"y": 0.000000,
+										"z": 0.000000
+									},
+									"Pivot": {
+										"x": 0.000000,
+										"y": 0.000000,
+										"z": 0.000000
+									},
+									"Shear": {
+										"x": 0.000000,
+										"y": 0.000000
+									},
+									"XZShear": 0.000000,
+									"YZShear": 0.000000,
+									"Tolerance": 0.000001,
+									"AngleTolerance": 0.001091
+								},
+								"Cxform": {
+									"Mode": 1,
+									"Value": 0.250000,
+									"R": 0.000000,
+									"G": 0.000000,
+									"B": 0.000000,
+									"Ao": 0.000000,
+									"Ro": 0.000000,
+									"Go": 0.000000,
+									"Bo": 0.000000,
+									"Am": 1.000000,
+									"Rm": 1.000000,
+									"Gm": 1.000000,
+									"Bm": 1.000000
+								},
+								"Components": [
+									{
+										"Id": "15522259638483110445",
+										"DynamicProperties": {},
+										"Owner": {
+											"@meta": {
+												"@ref": 2068747198
+											}
+										},
+										"Name": "BitmapComponent_46",
+										"Enabled": true,
+										"Bitmap": "F2_hud.png",
+										"@meta": {
+											"@id": 2902929482,
+											"@typeid": 110556596
+										}
+									}
+								],
+								"Pivot": {
+									"x": 256.000000,
+									"y": 64.000000
+								},
+								"BlendMode": 0,
+								"Scale9Enabled": false,
+								"Scale9Grid": {
+									"x1": 0.000000,
+									"y1": 0.000000,
+									"x2": 0.000000,
+									"y2": 0.000000
+								},
+								"Filters": [],
+								"@meta": {
+									"@id": 2068747198,
+									"@typeid": 150545074
+								}
+							},
+							"@meta": {
+								"@id": 3329545390,
+								"@typeid": 201137634
+							}
+						}
+					],
+					"@meta": {
+						"@id": 1910967306,
+						"@typeid": 95995364
+					}
+				},
+				{
+					"Id": "9735143324425057801",
+					"DynamicProperties": {},
+					"Owner": {
+						"@meta": {
+							"@ref": 97270621
+						}
+					},
+					"Name": "Scaleform::VGx::Data::Component_13",
+					"Enabled": true,
+					"Script": "Main.lua",
+					"@meta": {
+						"@id": 2978589082,
+						"@typeid": 13313492
+					}
+				}
+			],
+			"Pivot": {
+				"x": 0.000000,
+				"y": 0.000000
+			},
+			"BlendMode": 0,
+			"Scale9Enabled": false,
+			"Scale9Grid": {
+				"x1": 0.000000,
+				"y1": 0.000000,
+				"x2": 0.000000,
+				"y2": 0.000000
+			},
+			"Filters": [],
+			"@meta": {
+				"@id": 97270621,
+				"@typeid": 149361045
+			}
+		}
+	],
+	"@meta": {
+		"@archive": "Serialization::Archive",
+		"@version": 1,
+		"@meta": {
+			"Scaleform::VGx::Data::Object": {
+				"@typename": "Scaleform::VGx::Data::Object",
+				"@typeid": 11646516,
+				"@version": 4
+			},
+			"Scaleform::VGx::Data::Actor": {
+				"@typename": "Scaleform::VGx::Data::Actor",
+				"@typeid": 150545074,
+				"@version": 6
+			},
+			"Scaleform::VGx::Data::Scene": {
+				"@typename": "Scaleform::VGx::Data::Scene",
+				"@typeid": 149361045,
+				"@version": 1
+			},
+			"Scaleform::VGx::Data::DisplayTransform": {
+				"@typename": "Scaleform::VGx::Data::DisplayTransform",
+				"@typeid": 218006813,
+				"@version": 3
+			},
+			"Scaleform::Render::Point3<double>": {
+				"@typename": "Scaleform::Render::Point3<double>",
+				"@typeid": 247406526,
+				"@version": 1
+			},
+			"Scaleform::Render::Point<double>": {
+				"@typename": "Scaleform::Render::Point<double>",
+				"@typeid": 202824462,
+				"@version": 1
+			},
+			"Scaleform::VGx::Data::DisplayColorTransform": {
+				"@typename": "Scaleform::VGx::Data::DisplayColorTransform",
+				"@typeid": 61199661,
+				"@version": 2
+			},
+			"Scaleform::VGx::Data::Component": {
+				"@typename": "Scaleform::VGx::Data::Component",
+				"@typeid": 265204916,
+				"@version": 2
+			},
+			"Scaleform::VGx::Data::ContainerComponent": {
+				"@typename": "Scaleform::VGx::Data::ContainerComponent",
+				"@typeid": 95995364,
+				"@version": 4
+			},
+			"Scaleform::VGx::Data::DisplayLayer": {
+				"@typename": "Scaleform::VGx::Data::DisplayLayer",
+				"@typeid": 127570786,
+				"@version": 1
+			},
+			"Scaleform::VGx::Data::ActorLayer": {
+				"@typename": "Scaleform::VGx::Data::ActorLayer",
+				"@typeid": 201137634,
+				"@version": 2
+			},
+			"Scaleform::VGx::Data::BitmapComponent": {
+				"@typename": "Scaleform::VGx::Data::BitmapComponent",
+				"@typeid": 110556596,
+				"@version": 2
+			},
+			"Scaleform::Render::Point<float>": {
+				"@typename": "Scaleform::Render::Point<float>",
+				"@typeid": 149327086,
+				"@version": 1
+			},
+			"Scaleform::Render::Rect<float>": {
+				"@typename": "Scaleform::Render::Rect<float>",
+				"@typeid": 226345230,
+				"@version": 1
+			},
+			"Scaleform::VGx::Data::ScriptComponent": {
+				"@typename": "Scaleform::VGx::Data::ScriptComponent",
+				"@typeid": 13313492,
+				"@version": 2
+			}
+		}
+	}
+}

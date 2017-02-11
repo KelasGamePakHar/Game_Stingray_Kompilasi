@@ -1,0 +1,37 @@
+
+default_startup_level = "content/levels/basic"
+description = "Game hasil kompilasi kelasnya Pak har"
+libraries = {
+	wwise = {
+		project_file = "Game_Stingray_Kompilasi_wwise.wproj"
+		root_folder = "../Game_Stingray_Kompilasi_wwise"
+	}
+}
+migrations = {
+	"asset-browser" = {
+		patches = {
+			"replace-fbxasc" = [
+				"successfully applied"
+			]
+		}
+		version = "1.1.1"
+	}
+	navigation = {
+		patches = {
+			"ensure-gwnav-in-project-boot.package" = [
+				"nothing to apply since `gwnav/` already referenced in project: F:\\StingrayProject\\Game_Stingray_Kompilasi\\Game_Stingray_Kompilasi\\boot.package"
+			]
+			"from-1.0.0-to-1.0.1" = [
+				"successfully applied"
+			]
+			"from-C#-module-to-1.0.0" = [
+				"successfully applied"
+			]
+		}
+		version = "1.0.1"
+	}
+}
+name = "Game_Stingray_Kompilasi"
+source_directory = "../Game_Stingray_Kompilasi"
+thumbnail = "thumbnail.png"
+version = "1.6.2.0"

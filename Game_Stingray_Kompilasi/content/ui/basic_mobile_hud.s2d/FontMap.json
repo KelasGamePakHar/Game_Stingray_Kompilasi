@@ -1,0 +1,15 @@
+{
+  "configs": [
+    {
+      "name": "Default",
+      "map": [
+        {
+          "UIFont": {"font": "UI", "style": "Original", "scaleFactor": "1.0" }
+        },
+        {
+          "ScoreFont": {"font": "Score", "style": "Original", "scaleFactor": "1.0"}
+        }
+      ]
+    }
+  ]
+}

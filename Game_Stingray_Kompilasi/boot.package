@@ -1,0 +1,49 @@
+// WILL AUTOLOAD ALL CONTENT AND SCRIPTS. PLEASE REMOVE TO CONTROL CONTENT LOADING
+* = ["*"]
+
+config = [
+	"core/performance_hud/performance_hud"
+]
+font = [
+	"core/performance_hud/debug"
+]
+level = [
+	"content/levels/*"
+]
+lua = [
+	"core/appkit/lua/*"
+	"core/humanik/lua/*"
+	"core/wwise/lua/*"
+	"core/scaleform_studio/lua/*"
+	"script/lua/*"
+]
+material = [
+	"core/performance_hud/*"
+]
+physics_properties = [
+	"global"
+]
+unit = [
+	"content/models/character/character"
+	"content/models/floor/Basic_Floor"
+	"core/editor_slave/units/skydome/skydome"
+	"core/units/camera"
+	"core/appkit/units/*"
+]
+shading_environment = [
+    "core/stingray_renderer/environments/midday/midday"
+]
+
+s2d = [
+	"content/ui/simple_menu"
+	"content/ui/template_hud"
+	"content/ui/basic_mobile_hud"
+]
+wwise_dep = [
+	"content/audio/*"
+]
+
+ADD_PACKAGES = [
+	"gwnav/boot.package"
+	"core/animation/boot.package"
+]

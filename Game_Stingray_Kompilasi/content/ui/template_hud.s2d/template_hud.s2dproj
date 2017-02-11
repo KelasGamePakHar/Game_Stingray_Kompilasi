@@ -1,0 +1,36 @@
+{
+    "@objects": [
+		{
+			"Id": "16782349752074314573",
+			"DynamicProperties": {},
+			"Owner": null,
+			"Author": "Sven Dixon",
+			"Company": "Autodesk",
+			"StageWidth": 1920,
+			"StageHeight": 1080,
+			"FramesPerSec": 30,
+			"AutoLoadScene": "Scene0.s2dscene",
+			"Script": "",
+			"@meta": {
+				"@id": 332428708,
+				"@typeid": 153080644
+			}
+		}
+	],
+	"@meta": {
+		"@archive": "Serialization::Archive",
+		"@version": 1,
+		"@meta": {
+			"Scaleform::VGx::Data::Object": {
+				"@typename": "Scaleform::VGx::Data::Object",
+				"@typeid": 11646516,
+				"@version": 4
+			},
+			"Scaleform::VGx::Data::Project": {
+				"@typename": "Scaleform::VGx::Data::Project",
+				"@typeid": 153080644,
+				"@version": 4
+			}
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"fonts" : [
+	  {"name" : "Sans",  "style" : "Regular", "file" : "Fonts/Roboto-Regular.ttf"},
+	  {"name" : "Sans",  "style" : "Bold", "file" : "Fonts/Roboto-Medium.ttf"},
+	  {"name" : "Sans",  "style" : "Italic", "file" : "Fonts/Roboto-Italic.ttf"},
+	  {"name" : "Sans",  
+	  "style" : "BoldItalic", 
+	  "file" : "Fonts/Roboto-MediumItalic.ttf",
+	  "face" : 0,
+	  "vectorHinting" :"DontHint",
+	  "rasterHinting" : "CJK",
+	  "maxVectorHintedSize" : 24,
+	  "maxRasterHintedSize" : 24
+	  }
+	  ]
+	
+}

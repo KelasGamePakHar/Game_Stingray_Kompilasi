@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{615A2D2C-A6C1-47BB-8FEF-D9295BB3A614}" SchemaVersion="69">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{615A2D2C-A6C1-47BB-8FEF-D9295BB3A614}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="SFX" ID="{8DFFF14C-E1AA-4862-8E34-9A40692C685C}" ShortID="40317816">
+					<ChildrenList>
+						<Event Name="sfx_spawn_sound" ID="{C6F92617-2B25-4C94-849B-43D42943F6F9}">
+							<ChildrenList>
+								<Action Name="Play" ID="{1E478F0B-45B2-433D-B0F1-0C61F56889F4}" ShortID="852931717" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{CC0A21C5-7239-4755-A864-5CEFB0513712}" Global="false">
+											<ObjectRef Name="sfx_spawn_sound" ID="{5A1708C3-1052-4559-9762-929E700D47D6}" WorkUnitID="{3CB48151-3575-45D8-A04F-68FF7418BD06}"/>
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="VO" ID="{B83884E8-4D1A-4BC6-AA1E-7F006C86ADF8}" ShortID="449022605"/>
+				<Folder Name="MUSIC" ID="{79D39842-2F27-4F5C-9E19-B167662AD176}" ShortID="746143139"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
