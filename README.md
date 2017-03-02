@@ -15,21 +15,21 @@ renderer = {
   fullscreen = false
   aspect_ratio = -1
   d3d_debug = false
-  //vsync = false
+  vsync = false
 }
 
 // Note: Adjust render settings below
 render_settings = {
   sun_shadows = false
-  sun_shadow_map_size = [ 32, 32 ]
+  //sun_shadow_map_size = [ 2048, 2048 ]
   // Only on PC, PS4, XB1: medium == 4 tap PCF, high == 5x5 PCF
   // Ignored on mobile
-  sun_shadow_map_filter_quality = "low"
-  local_lights_shadow_map_filter_quality = "low"
+  //sun_shadow_map_filter_quality = "high"
+  //local_lights_shadow_map_filter_quality = "high"
 
   deferred_local_lights_cast_shadows = false
   forward_local_lights_cast_shadows = false
-  local_lights_shadow_atlas_size = [ 32, 32 ]
+  //local_lights_shadow_atlas_size = [ 2048, 2048 ]
 
   particles_local_lighting = false
   particles_receive_shadows = false
@@ -45,7 +45,7 @@ render_settings = {
   dof_enabled = false
   bloom_enabled = false
   ssr_enabled = false
-  ssr_high_quality = false
+  //ssr_high_quality = false
   lens_quality_enabled = false
 }
 ```
